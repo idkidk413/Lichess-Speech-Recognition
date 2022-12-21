@@ -1,5 +1,5 @@
-from keyboard_utils import Keyboard
-from speech_utils import speech_to_text, text_to_speech
+from utils.keyboard import Keyboard
+from utils.speech import speech_to_text, text_to_speech
 
 
 class Main:
